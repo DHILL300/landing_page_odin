@@ -2,3 +2,9 @@
 {
     font-family: roboto, sans-serif;
 }
+
+header, .intro, footer 
+{
+    background-color: #1F2937;
+    color:#F9FAF8
+}
